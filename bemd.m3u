@@ -12,7 +12,7 @@ http://45.232.210.1:18000/play/a07d/index.m3u8
 #EXTINF:-1,CANAL 13 HD
 http://170.247.204.9:8000/play/a09z/index.m3u8
 #EXTINF:-1,LA RED
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+http://45.232.210.1:18000/play/a07e/index.m3u8
 #EXTINF:-1,UCV
 https://pantera1-100gb-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1,TV+
@@ -26,15 +26,15 @@ http://45.232.210.1:18000/play/a08l/index.m3u8
 #EXTINF:-1,ESPN PREMIUM HD
 http://38.3.162.3:18009/play/a0ho/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://170.79.235.141:8002/play/a02p/index.m3u8
+http://170.247.204.9:8000/play/a04g/index.m3u8
 #EXTINF:-1,ESPN 3 HD
-http://170.79.235.141:8002/play/a031/index.m3u8
+http://170.247.204.9:8000/play/a0cl/index.m3u8
 #EXTINF:-1,ESPN 4 HD
-http://170.79.235.141:8002/play/a04p/index.m3u8
+http://170.247.204.9:8000/play/a021/index.m3u8
 #EXTINF:-1,ESPN 5 HD
-http://170.79.235.141:8002/play/a02q/index.m3u8
+http://170.247.204.9:8000/play/a0a8/index.m3u8
 #EXTINF:-1,ESPN 6 HD
-http://170.79.235.141:8002/play/a02x/index.m3u8
+http://170.247.204.9:8000/play/a0a0/index.m3u8
 #EXTINF:-1,ESPN 7 HD
 http://38.3.162.3:18009/play/a0dp/index.m3u8
 #EXTINF:-1,TNT SPORTS
@@ -42,17 +42,11 @@ http://38.3.162.3:18009/play/a01u/index.m3u8
 #EXTINF:-1,TNT Sports Premium HD
 http://38.3.162.3:18009/play/a0hi/index.m3u8
 #EXTINF:-1,TNT SPORT CHILE PREMIUM EXPV2
-http://170.79.235.141:8002/play/a01n/index.m3u8
+http://170.247.204.9:8000/play/a00e/index.m3u8
 #EXTINF:-1,TNT SPORT CHILE PREMIUM EXPV3
-http://190.93.229.30:8000/play/a0h4/index.m3u8
+http://170.247.204.9:8000/play/a048/index.m3u8
 #EXTINF:-1,DIRECTV Sport
 http://179.43.96.253:8000/play/a24w/index.m3u8
-#EXTINF:-1,DIRECTV Sport 2
-http://190.108.80.138:8000/play/a0k0/index.m3u8
-#EXTINF:-1,DIRECTV Sport HD
-http://181.66.249.25:8000/play/a0d1/index.m3u8
-#EXTINF:-1,TUDN Mexico
-http://201.151.118.136:8000/play/a00g/index.m3u8
 #EXTINF:-1,TELETRAK
 https://teletraktv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1,UFC V1
@@ -71,30 +65,24 @@ http://38.3.162.3:18009/play/a0hp/index.m3u8
 http://38.3.162.3:18009/play/a0hk/index.m3u8
 #EXTINF:-1,HBO Xtreme HD
 http://38.3.162.3:18009/play/a0hq/index.m3u8
-#EXTINF:-1,HBO+
-http://190.93.229.30:8000/play/a08s/index.m3u8
 #EXTINF:-1,STAR CHANNEL
-http://170.79.235.141:8002/play/a00p/index.m3u8
+http://170.247.204.9:8000/play/a023/index.m3u8
 #EXTINF:-1,CINEMAX
-http://201.187.97.144:8000/play/a04s/index.m3u8
+http://38.3.162.3:18009/play/a041/index.m3u8
 #EXTINF:-1,CINECANAL HD
-http://170.79.235.141:8002/play/a04g/index.m3u8
-#EXTINF:-1,GOLDEN HD
-http://190.93.229.30:8000/play/a08a/index.m3u8
+http://170.247.204.9:8000/play/a01s/index.m3u8
 #EXTINF:-1,WARNER TV HD
-http://170.79.235.141:8002/play/a04k/index.m3u8
+http://170.247.204.9:8000/play/a01w/index.m3u8
 #EXTINF:-1,SONY HD
-http://170.79.235.141:8002/play/a04j/index.m3u8
-#EXTINF:-1,SONY MOVIES
-http://170.79.235.141:8002/play/a02g/index.m3u8
+http://170.247.204.9:8000/play/a01v/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
-http://170.79.235.141:8002/play/a02n/index.m3u8
+http://170.247.204.9:8000/play/a0ca/index.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL HD
 http://38.3.162.3:18009/play/a0jk/index.m3u8
 #EXTINF:-1,TNT HD
 http://38.7.197.119:4000/play/a00m/index.m3u8
 #EXTINF:-1,TNT SERIES HD
-http://170.79.235.141:8002/play/a02v/index.m3u8
+http://170.247.204.9:8000/play/a0aa/index.m3u8
 #EXTINF:-1,TNT NOVELAS HD
 http://38.3.162.3:18009/play/tntnovelas/index.m3u8
 #EXTINF:-1,SPACE HD
@@ -106,52 +94,50 @@ http://38.7.197.119:4000/play/a00j/index.m3u8
 #EXTINF:-1,A&E HD
 http://38.3.162.3:18009/play/a0hy/index.m3u8
 #EXTINF:-1,AMC HD
-http://170.79.235.141:8002/play/a02u/index.m3u8
+http://170.247.204.9:8000/play/a0a9/index.m3u8
 #EXTINF:-1,DHE HD
-http://170.79.235.141:8002/play/a01y/index.m3u8
+http://170.247.204.9:8000/play/a04r/index.m3u8
 #EXTINF:-1,PASIONES HD
 http://38.3.162.3:18009/play/a0it/index.m3u8
 
 ### --- ENTRETENIMIENTO Y VARIEDADES ---
 #EXTINF:-1,COMEDY CENTRAL HD
-http://170.79.235.141:8002/play/a02l/index.m3u8
+http://170.247.204.9:8000/play/a0a3/index.m3u8
 #EXTINF:-1,MTV HD
 http://38.3.162.3:18009/play/a0ei/index.m3u8
 #EXTINF:-1,EL GOURMET HD
-http://170.79.235.141:8002/play/a02m/index.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://190.93.229.30:8000/play/a0jj/index.m3u8
+http://170.247.204.9:8000/play/a0c9/index.m3u8
 #EXTINF:-1,SUN CHANNEL HD
-http://170.79.235.141:8002/play/a022/index.m3u8
+http://38.3.162.3:18009/play/a0hr/index.m3u8
 
 ### --- CULTURA Y DOCUMENTALES ---
 #EXTINF:-1,NAT GEO HD
-http://45.232.210.1:8029/play/a05a/index.m3u8
+http://170.247.204.9:8000/play/a01q/index.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL HD
-http://170.79.235.141:8002/play/a04c/index.m3u8
+http://170.247.204.9:8000/play/a01o/index.m3u8
 #EXTINF:-1,DISCOVERY THEATER HD
 http://38.3.162.3:18009/play/discoverytheater/index.m3u8
 #EXTINF:-1,DISCOVERY WORLD HD
-http://45.232.210.1:8029/play/a05b/index.m3u8
+http://38.3.162.3:18009/play/a0hz/index.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
-http://170.79.235.141:8002/play/a04b/index.m3u8
+http://170.247.204.9:8000/play/a01n/index.m3u8
 #EXTINF:-1,HISTORY CHANNEL HD
-http://170.79.235.141:8002/play/a04d/index.m3u8
+http://170.247.204.9:8000/play/a01p/index.m3u8
 #EXTINF:-1,ID HD
-http://170.79.235.141:8002/play/a04m/index.m3u8
-
+http://170.247.204.9:8000/play/a01y/index.m3u8
 
 ### --- INFANTILES ---
-#EXTINF:-1,CNTV INFANTIL
-http://45.232.210.1:8029/play/a00l/index.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
-http://170.79.235.141:8002/play/a01d/index.m3u8
+http://170.247.204.9:8000/play/a0cs/index.m3u8
 #EXTINF:-1,DISNEY CHANNEL HD
-http://170.79.235.141:8002/play/a04o/index.m3u8
+http://170.247.204.9:8000/play/a020/index.m3u8
 #EXTINF:-1,NICKELODEON HD
 http://38.3.162.3:18009/play/a0d4/index.m3u8
 #EXTINF:-1,DISCOVERY KIDS HD
-http://170.79.235.141:8002/play/a02f/index.m3u8
+http://170.247.204.9:8000/play/a0c2/index.m3u8
+#EXTINF:-1,GOKU TV
+http://38.3.162.3:18009/play/a0c2/index.m3u8
+
 
 ### --- RADIOS ---
 #EXTINF:-1,BIOBIO RADIO V1
