@@ -99,6 +99,11 @@ http://170.247.204.9:8000/play/a0a9/index.m3u8
 http://170.247.204.9:8000/play/a04r/index.m3u8
 #EXTINF:-1,PASIONES HD
 http://38.3.162.3:18009/play/a0it/index.m3u8
+#EXTINF:-1,TELEMUNDO HD
+http://45.5.118.152:8000/play/a02j/index.m3u8
+#EXTINF:-1,TELEMUNDO
+http://45.232.210.1:18000/play/a096/index.m3u8
+
 
 ### --- ENTRETENIMIENTO Y VARIEDADES ---
 #EXTINF:-1,COMEDY CENTRAL HD
